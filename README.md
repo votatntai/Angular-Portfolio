@@ -1,5 +1,5 @@
 # Portfolio
-The project is built to record self-description as well as the learning and working process,
+The project is built to record self-description as well as the learning and working process.
 
 This project was generated with Angular CLI version 11.0.6.
 
