@@ -1,6 +1,7 @@
 # Portfolio
+The project is built to record self-description as well as the learning and working process,
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.6.
+This project was generated with Angular CLI version 11.0.6.
 
 ## Development server
 
