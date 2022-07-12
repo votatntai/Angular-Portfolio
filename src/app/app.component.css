@@ -1,0 +1,40 @@
+a {
+    cursor: pointer !important;
+}
+
+.highlight {
+    font-weight: 500;
+    color: #ff9800 !important;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.text-italic {
+    font-style: italic !important;
+}
+
+.m-0 {
+    margin: 0 !important;
+}
+
+.p-0 {
+    padding: 0 !important;
+}
+
+.mt-1 {
+    margin-top: 25px !important;
+}
+
+.mb-0 {
+    margin-bottom: 0 !important;
+}
+
+.text-justify {
+    text-align: justify !important;
+}
