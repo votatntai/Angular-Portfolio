@@ -38,3 +38,7 @@ a {
 .text-justify {
     text-align: justify !important;
 }
+
+.text-left {
+    text-align: left !important;
+}
